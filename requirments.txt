@@ -7,3 +7,7 @@ action
 
 gaming
 tell score
+
+money
+google pay 
+phone pe
