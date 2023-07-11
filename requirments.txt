@@ -4,3 +4,6 @@ personality
 emoji
 dark mode
 action
+
+gaming
+tell score
